@@ -1,0 +1,27 @@
+﻿  contact.c
+E:\c_code\20210512\20210512\contact.c(22,9): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“short *”
+E:\c_code\20210512\20210512\contact.c(22,9): message : 请考虑在格式字符串中使用“%hd”
+E:\c_code\20210512\20210512\contact.c(12,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\c_code\20210512\20210512\contact.c(14,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\c_code\20210512\20210512\contact.c(16,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\c_code\20210512\20210512\contact.c(18,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\c_code\20210512\20210512\contact.c(20,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\c_code\20210512\20210512\contact.c(22,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\c_code\20210512\20210512\contact.c(35,10): warning C4477: “printf”: 格式字符串“%10s”需要类型“char *”的参数，但可变参数 1 拥有了类型“PeoInfo”
+E:\c_code\20210512\20210512\contact.c(50,12): warning C4013: “strmp”未定义；假设外部返回 int
+E:\c_code\20210512\20210512\contact.c(83,9): warning C4013: “pritf”未定义；假设外部返回 int
+E:\c_code\20210512\20210512\contact.c(68,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\c_code\20210512\20210512\contact.c(103,10): warning C4477: “printf”: 格式字符串“%10s”需要类型“char *”的参数，但可变参数 1 拥有了类型“PeoInfo”
+E:\c_code\20210512\20210512\contact.c(92,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\c_code\20210512\20210512\contact.c(136,9): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“short *”
+E:\c_code\20210512\20210512\contact.c(136,9): message : 请考虑在格式字符串中使用“%hd”
+E:\c_code\20210512\20210512\contact.c(117,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\c_code\20210512\20210512\contact.c(126,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\c_code\20210512\20210512\contact.c(128,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\c_code\20210512\20210512\contact.c(130,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\c_code\20210512\20210512\contact.c(132,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\c_code\20210512\20210512\contact.c(134,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\c_code\20210512\20210512\contact.c(136,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  test.c
+E:\c_code\20210512\20210512\test.c(31,3): warning C4550: 表达式计算为缺少参数列表的函数
+  正在生成代码...
